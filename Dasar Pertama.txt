@@ -1,0 +1,14 @@
+Tampilakn about.txt
+~ $ cat about.txt
+Progate adalah layanan web
+dimana Anda dapat belajar pemrograman secara online
+
+
+Tampilkan beginner.txt
+~ $ cat beginner.txt
+command cat adalah sebuah perintah yang digunakan untuk menampilkan konten dari file tertentu.
+
+Buat direktori html
+~ $ mkdir html
+Progate adalah layanan web
+dimana Anda dapat belajar pemrograman secara online

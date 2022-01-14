@@ -1,0 +1,39 @@
+1 Pindah ke direktori html
+~ $ cd html
+
+2 Buat study.txt didalam direktori html
+html $ touch study.txt
+
+rogate adalah layanan web
+dimana Anda dapat belajar pemrograman secara online
+
+
+1 Cek direktori saat ini
+~ $ pwd
+
+2 Pindah ke direktori languages 
+~ $ cd languages
+
+3 Cek direktori saat ini
+languages $ pwd
+
+1 Tampilkan file didalam direktori saat ini
+~ $ ls
+
+2 Pindah ke direktori languages
+~ $ cd languages
+
+3 Tampilkan file di direktori languages
+languages $ ls
+
+1 Pindah ke direktori languages
+~ $ cd languages
+
+2 Cek direktori saat ini
+languages $ pwd
+
+3 Pindah ke direktori induk
+languages $ cd ..
+
+4 Cek direktori saat ini
+~ $ pwd
